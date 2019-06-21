@@ -1,0 +1,163 @@
+.header {
+	box-sizing: border-box;
+	height: 82px;
+	width: 100%;
+	border: 1px solid #CFD4D7;
+	background-color: #FFFFFF;
+}
+.header ul{
+    display: inline-block;
+    list-style-type:none ;
+    margin-left: 80px;
+}
+.header li{
+    float: left;
+}
+.home{
+	height: 27px;
+	width: 137px;
+	color: #000000;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 27px;
+}
+.about {
+	height: 27px;
+	width: 137px;
+	color: #000000;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 27px;
+}
+body{
+	
+	background-color: #E6ECF0;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    box-sizing: border-box;	
+    height:700px;
+    width: 1000px;	
+    border: 1px solid #CFD4D7;	
+    background-color: #FFFFFF;
+    margin-left: 375px;
+    margin-top: 10px;
+    background-image:url("bgimage.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.left {
+	height: 240px;
+	width: 320px;
+	color: #3D7FB5;
+	font-family: "Ubuntu Mono derivative Powerline";
+	font-size: 80px;
+	font-weight: bold;
+    line-height: 80px;
+    margin-left:30px;
+    margin-top: 20px;
+}
+
+.loginto {
+	height: 41px;
+	width: 247px;
+	color: #000000;
+	font-family: Avenir;
+	font-size: 30px;
+	font-weight: 300;
+    line-height: 41px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+} 
+.login form input{
+	box-sizing: border-box;
+	height: 61px;
+	width: 401px;
+	border: 2px solid #3D7FB5;
+    opacity: 0.5;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: #657786;
+    font-family: Avenir;	
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 27px;
+    margin-top:15px; 
+}
+
+.login form button{
+    height: 60px;
+	width: 400px;
+	border-radius: 50px;
+    background-color: #FF7474;
+    color: #FFFFFF;
+    font-family: Avenir;	
+    font-size: 20px;	
+    font-weight: 900;	
+    line-height: 27px;
+    margin-top:10px; 
+    margin-bottom: 30px;
+    border: none;
+
+}
+.forgot a {
+	height: 27px;
+	width: 158px;
+	color: #3596E0;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300;
+    line-height: 27px;
+    text-decoration: none;
+    padding-bottom: 30px;
+   
+}
+.forgot
+{
+    padding-bottom: 30px;
+}
+.new a{
+	height: 27px;
+	width: 274px;
+	color: #3596E0;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300px;
+    line-height: 27px;
+    text-decoration: none;
+    
+}
+.new{
+    height: 27px;
+	width: 274px;
+	color:black;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300px;
+    line-height: 27px;
+    padding-bottom: 30px;
+}
+.already{
+	height: 27px;
+	width: 412px;
+	color: black;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300;
+    line-height: 27px;
+    
+}
+.already a {
+	height: 27px;
+	width: 412px;
+	color: #3596E0;
+	font-family: Avenir;
+	font-size: 20px;
+	font-weight: 300;
+    line-height: 27px;
+    text-decoration: none;
+}
