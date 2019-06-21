@@ -44,7 +44,7 @@ body{
     width: 1000px;	
     border: 1px solid #CFD4D7;	
     background-color: #FFFFFF;
-    margin-left: 375px;
+    margin-left: 450px;
     margin-top: 10px;
     background-image:url("bgimage.png");
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@ body{
 	font-weight: 300;
     line-height: 41px;
     margin-top: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 } 
 .login form input{
 	box-sizing: border-box;
@@ -86,7 +86,7 @@ body{
     font-size: 20px;
     font-weight: 300;
     line-height: 27px;
-    margin-top:15px; 
+    margin-top:20px; 
 }
 
 .login form button{
@@ -99,7 +99,7 @@ body{
     font-size: 20px;	
     font-weight: 900;	
     line-height: 27px;
-    margin-top:10px; 
+    margin-top:20px; 
     margin-bottom: 30px;
     border: none;
 
