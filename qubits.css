@@ -1,0 +1,117 @@
+.header {
+    display: grid;
+    grid-template-columns :  20fr 40fr 40fr ;
+    
+   
+}
+
+.logo{
+    height: 52px;	width: 66px;	background-color: #A5CFD0;
+    float: left;
+
+}
+.menu ul{
+    list-style: none;
+    display: inline-block
+}
+.menu li{
+    float: left;
+}
+.design{
+	height: 1297px;
+	width: 875px;
+	border-radius: 100px;
+	background-color: #3F989A;
+    box-shadow: 15px 15px 30px 15px rgba(0,0,0,0.5);
+    margin-top: -600px;
+    margin-right: -150px;
+    grid-row:1/4span;
+}
+
+
+.home{
+	height: 27px;
+	/*padding-right:10px;*/
+	width: 111px;
+	color: #3F989A;	
+	font-family: Manrope;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 27px;
+}
+.about {
+	height: 27px;
+	width: 111px;
+	color: #303030;
+	font-family: Manrope;
+	font-size: 20px;
+	font-weight: 500;
+    line-height: 27px;
+    /*padding-right:10px;*/
+}
+.contribute {
+	height: 27px;
+	width: 111px;
+	color: #303030;
+	font-family: Manrope;
+	font-size: 20px;
+	font-weight: 500;
+    line-height: 27px;
+    /*padding-right:8px;*/
+}
+.contact {
+    height: 27px;
+    padding-left:15px;
+	width: 111px;
+	color: #303030;
+	font-family: Manrope;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 27px;
+}
+.hone{
+	
+		height: 88px;
+		width: 469px;
+		color: #505F7D;
+		font-family: Manrope;
+		font-size: 64px;
+		font-weight: bold;
+		line-height: 88px;
+	
+}
+.hthree{
+	height: 207px;
+	width: 501px;
+	color: #505F7D;	
+	font-family: Manrope;	
+	font-size: 50px;	
+	font-weight: 300;	
+	line-height: 69px;
+}
+
+.button{
+	height: 60px;
+	width: 220px;	
+	border-radius: 5px;	
+	background-color: #3F989A;
+	color: #FFFFFF;	
+	font-family: Manrope;	
+	font-size: 20px;	
+	font-weight: 500;	
+	line-height: 27px;
+}
+
+.line{
+	height: 176px;
+	width: 1054px;
+	color: #505F7D;
+	font-family: Manrope;
+	font-size: 64px;
+	font-weight: 300;
+	line-height: 88px;
+	text-align: center;
+	margin-top: 85px;
+	margin-left: 350px;
+
+}
